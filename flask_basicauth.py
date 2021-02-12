@@ -1,5 +1,5 @@
 """
-    flask.ext.basicauth
+    flask_basicauth
     ~~~~~~~~~~~~~~~~~~~
 
     Flask-BasicAuth is a Flask extension that provides an easy way to protect

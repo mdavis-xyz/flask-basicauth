@@ -77,14 +77,14 @@ A list of configuration keys currently understood by the extension:
     The correct username and password combination that grants access for the
     client to the protected resource.
 
-    You can override :meth:`BasicAuth.check_credentials <flask.ext.basicauth.BasicAuth.check_credentials>`,
+    You can override :meth:`BasicAuth.check_credentials <flask_basicauth.BasicAuth.check_credentials>`,
     if you need a different authentication logic for your application.
 
 
 API reference
 -------------
 
-.. module:: flask.ext.basicauth
+.. module:: flask_basicauth
 
 This part of the documentation covers all the public classes and functions
 in Flask-BasicAuth.
